@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+bcrypt
+requests
+python-dotenv
+streamlit-js-eval
+XlsxWriter
+altair
+
